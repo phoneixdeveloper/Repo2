@@ -1,6 +1,5 @@
 repo2
 
-Pull by GUI !!!
-
-edited by GUI !!!
+ This is testBranch !!!
+ Will be merged to Master Branch
 
