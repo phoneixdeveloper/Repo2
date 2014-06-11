@@ -1,7 +1,9 @@
 package test;
 
 public class testClass {
-
+	
+	private int number;
+	
 	/**
 	 * @param args
 	 */
